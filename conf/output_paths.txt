@@ -1,0 +1,4 @@
+F:\DataAdapter\Eclipse_workspace\_DataAdapter\SearchEngine_3+\webpages/
+F:\DataAdapter\Eclipse_workspace\_DataAdapter\SearchEngine_3+\words_dic.txt
+F:\DataAdapter\Eclipse_workspace\_DataAdapter\SearchEngine_3+\inversed_file.txt
+F:\DataAdapter\Eclipse_workspace\_DataAdapter\SearchEngine_3+\page_info.txt
